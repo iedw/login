@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/login",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Wesley",
+      "email": "wvt1@aluno.ifal.edu.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Classes\\": "Classes/",
+              "Conexao\\": "Conexao/"}
+  }
+}
